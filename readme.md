@@ -18,7 +18,7 @@ In this project, I learned:
 
 ## Hosting Link
 You can view the live demo of the Digital Clock here:
-[**Live Digital Clock**](https://your-host-link.com)
+[**Live Digital Clock**](https://amisha2912.github.io/DigitalClock/)
 
 ## Technologies Used
 - **HTML**
